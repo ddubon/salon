@@ -1717,7 +1717,8 @@
 	}
 
 	header {
-		margin: 0 0 1em 0;
+		margin: 0 0 2em 0;
+		padding-top: 5em;
 	}
 
 		header > p {
@@ -2088,10 +2089,10 @@
 /* Wrapper */
 
 	.wrapper {
-		background: #fff;
-		margin: 0 0 2em 0;
+		background: #727272;
+		margin: 0 0 0 0;
 		padding: 6em 0 6em 0;
-		background-image: url("../../images/model.jpg");
+		background-image: url("../../images/model2.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2105,7 +2106,7 @@
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/model4.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2335,7 +2336,7 @@
 /* Banner */
 
 	#banner {
-		background-image: url("../../images/model2.jpg");
+		background-image: url("../../images/model.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2392,6 +2393,10 @@
 		padding: 6em 0 6em 0;
 		background: #2b252c;
 		color: #fff;
+		background-image: url("../../images/black.jpg");
+		background-size: cover;
+		background-position: center center;
+		background-attachment: fixed;
 	}
 
 		#footer .icon.circled {
@@ -2439,6 +2444,10 @@
 		overflow: hidden;
 		padding: 2em 0 2em 0;
 		margin-bottom: 0;
+		background-image: url("../../images/model.jpg");
+		background-size: cover;
+		background-position: center center;
+		background-attachment: fixed;
 
 	}
 
