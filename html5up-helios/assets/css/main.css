@@ -2519,7 +2519,7 @@ img {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/model4.jpg");
+		background-image: url("../../images/header.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2527,6 +2527,7 @@ img {
 		text-align: center;
 		padding: 7.5em 0 2em 0;
 		cursor: default;
+		text-shadow: 3px 3px 0px #000;
 	}
 
 		#header:before {
@@ -2808,6 +2809,7 @@ img {
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
+		text-shadow: 3px 3px 0px #000;
 	}
 
 		#footer .icon.circled {
@@ -2819,6 +2821,28 @@ img {
 			text-align: center;
 			cursor: default;
 		}
+
+/* Footer3 */
+
+#footer3 {
+	text-align: center;
+	padding: 2em 0 2em 0;
+	color: #fff;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	text-shadow: 3px 3px 0px #000;
+}
+
+#footer3 .icon.circled {
+	background: #fff;
+	color: #2b252c;
+}
+
+#footer3 header {
+	text-align: center;
+	cursor: default;
+}
 
 
 /* Footer */
@@ -2833,6 +2857,7 @@ img {
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
+		text-shadow: 3px 3px 0px #000;
 	}
 
 		#footer .icon.circled {
@@ -2880,7 +2905,6 @@ img {
 		overflow: hidden;
 		padding: 2em 0 2em 0;
 		margin-bottom: 0;
-		background-image: url("../../images/model.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
